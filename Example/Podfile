@@ -1,0 +1,6 @@
+use_frameworks!
+target 'liblua_Tests' do
+  pod 'liblua', :path => '../'
+  
+  
+end
