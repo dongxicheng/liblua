@@ -1,0 +1,6 @@
+framework module Pods_liblua_Tests {
+  umbrella header "Pods-liblua_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

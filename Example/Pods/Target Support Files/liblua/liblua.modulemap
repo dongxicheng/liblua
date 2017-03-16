@@ -1,0 +1,6 @@
+framework module liblua {
+  umbrella header "liblua-umbrella.h"
+
+  export *
+  module * { export * }
+}

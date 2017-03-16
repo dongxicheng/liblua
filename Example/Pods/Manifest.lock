@@ -1,0 +1,14 @@
+PODS:
+  - liblua (0.1.0)
+
+DEPENDENCIES:
+  - liblua (from `../`)
+
+EXTERNAL SOURCES:
+  liblua:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  liblua: b2b6e6bec22b9855b2358f37e9bac79ae3fc230d
+
+COCOAPODS: 0.39.0
