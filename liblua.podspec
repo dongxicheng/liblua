@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'liblua'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of liblua.'
+  s.version          = '0.1.1'
+  s.summary          = 'lua 5.1.4 '
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
